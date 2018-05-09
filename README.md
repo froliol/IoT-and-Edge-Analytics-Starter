@@ -38,8 +38,8 @@ For the Motivated; Brush up on (It can't hurt):
 
 ## Supporting Materials
 * Scripts: Python & Node-RED
-* Presentation: 
-* DietPi Image:
+* Presentation: DevNet Create IoT Presentation.pptx
+* DietPi Image: https://drive.google.com/open?id=19KL5-3rWO_8d2IdLnDNUovE18Jxaa89H
 
 ## Connect with Me
 [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" width="50" alt="missing" >](https://twitter.com/froliol)
