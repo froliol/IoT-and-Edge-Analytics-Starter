@@ -1,6 +1,6 @@
 # WS9A - IOT & Edge analytics Demystified
 ### Material from my presentation (w/ Ashley Troggio) at Cisco DevNet Create 2018: "IoT & Edge Analytics Demystified: Build It Today!"
-### https://www.devnetcreate.io/2018/pages/agenda/agenda.html
+#### URL => https://www.devnetcreate.io/2018/pages/agenda/agenda.html
 
 
 ## BYOD Requirements
