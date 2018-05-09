@@ -37,10 +37,9 @@ For the Motivated; Brush up on (It can't hurt):
 * [Raspberry PI 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) (Just understand what it is)
 
 ## Supporting Materials
-* Lab Guide (Stay tuned)
-* Scripts (Lab solution)
-* Presentation (Stay tuned)
-* DietPi Image (Stay tuned)
+* Scripts: Python & Node-RED
+* Presentation: 
+* DietPi Image:
 
 ## Connect with Me
 [<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" width="50" alt="missing" >](https://twitter.com/froliol)
