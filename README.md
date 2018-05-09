@@ -1,7 +1,6 @@
 # IOT & Edge Analytics Starter
 ### Material from my presentation (w/ Ashley Troggio) at Cisco DevNet Create 2018: 
-### "WS9A - IoT & Edge Analytics Demystified: Build It Today!"
-[WS9A - IoT & Edge Analytics Demystified: Build It Today!](https://www.devnetcreate.io/2018/pages/agenda/agenda.html).
+### [WS9A - IoT & Edge Analytics Demystified: Build It Today!](https://www.devnetcreate.io/2018/pages/agenda/agenda.html).
 
 ## BYOD Requirements
 This workshop requires that you bring your own laptop. Flavor, shape, or size does not matter so long as it can run [PuTTY](https://www.putty.org/).
