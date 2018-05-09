@@ -1,5 +1,5 @@
-# WS9A - IOT & Edge analytics Demystified
-### Material from my presentation (w/ Ashley Troggio) at Cisco DevNet Create 2018: "IoT & Edge Analytics Demystified: Build It Today!"
+# IOT & Edge Analytics Starter
+### Material from my presentation (w/ Ashley Troggio) at Cisco DevNet Create 2018: "WS9A - IoT & Edge Analytics Demystified: Build It Today!"
 #### URL => https://www.devnetcreate.io/2018/pages/agenda/agenda.html
 
 
